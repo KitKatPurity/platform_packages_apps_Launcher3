@@ -120,7 +120,7 @@ public class Cling extends FrameLayout implements Insettable, View.OnClickListen
             mBubblePaint.setAntiAlias(true);
 
             mDotPaint = new Paint();
-            mDotPaint.setColor(0x72BBED);
+            mDotPaint.setColor(0xAAAAAA);
             mDotPaint.setAntiAlias(true);
 
             mIsInitialized = true;
